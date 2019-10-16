@@ -34,7 +34,8 @@ Download the complete folder and unzip
 
 Create a folder named 'faces' inside the 'face recognition' folder
 
-copy the  photos of into the 'faces' folder and rename the photos with their names.(only jpg format).
+copy the pics of people whose faces you want to recognize
+into the 'faces' folder and rename the photos with their names.(only jpg format).
 
 run the 'trainscrypt.py' first
 
